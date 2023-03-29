@@ -1,0 +1,25 @@
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+article{
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    background-color: salmon;
+    border: 1px solid black;
+}
+
+#diferente {
+    position: relative;
+    top: 10px;
+    left: 100px;
+    background-color: green;
+}
